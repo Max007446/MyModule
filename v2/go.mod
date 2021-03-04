@@ -1,4 +1,4 @@
-module github.com/Max007446/myModule/v2
+module github.com/Max007446/MyModule/v2
 
 go 1.15
 
